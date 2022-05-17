@@ -11,4 +11,4 @@
 
 # 👀 Quelques liens
 
-[Discord](https://discord.gg/nekocafe)
+[🍵 Mon Discord](https://discord.gg/nekocafe)
