@@ -1,14 +1,11 @@
-# Salut, c'est Nexo 👋 
+### Salut, c'est Nexo 👋 
 
-### 🎈 Projets récents
+# 🎈 Projets récents
 
-<!-- YOUTUBE:START -->
-- [Voice, simple bot discord de no-micro !]()
-
-<!-- YOUTUBE:END -->
-
----
+[Neka](https://discord.gg/9zTHEn75yQ)﹕ Bot discord multifonctions 
 
 # 👀 Quelques liens
 
-[🍵 Mon Discord](https://discord.gg/nekocafe)
+[Mon Discord](https://discord.gg/nekocafe)
+
+---
