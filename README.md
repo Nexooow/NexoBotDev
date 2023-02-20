@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je m'appelle Nexo</h1>
+<h1 align="center">Salut 👋, je suis Nexo</h1>
 <h3 align="center">Je suis un jeune passionné de développement.</h3>
 
 - 🔭 Je travaille actuellement sur [Osha](https://discord.gg/Dnkxa4vdRz)
