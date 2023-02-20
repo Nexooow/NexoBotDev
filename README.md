@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, je m'appelle Nexo</h1>
 <h3 align="center">Je suis un jeune passionné de développement.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexobotdev" alt="nexobotdev" /></a> </p>
-
 - 🔭 Je travaille actuellement sur [Osha](https://discord.gg/Dnkxa4vdRz)
 
 - 🌱 J'apprends actuellement **react**
