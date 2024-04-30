@@ -12,6 +12,4 @@ Skills: JS / TS / REACT / MySQL / MONGODB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexooow&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Nexooow)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nexooow)  
