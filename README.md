@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nexo !
 #### Je suis un étudiant qui voudrait m'améliorer en développement, et pourquoi pas en faire mon métier.
-![Je suis un étudiant qui voudrait m'améliorer en développement, et pourquoi pas en faire mon métier.]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://pa1.aminoapps.com/6519/7327fe517bfbda1c10eca18638906fa49e452a39_hq.gif))
+![Je suis un étudiant qui voudrait m'améliorer en développement, et pourquoi pas en faire mon métier.](https://pa1.aminoapps.com/6519/7327fe517bfbda1c10eca18638906fa49e452a39_hq.gif)
 
 Skills: JS / TS / REACT / MySQL / MONGODB
 
